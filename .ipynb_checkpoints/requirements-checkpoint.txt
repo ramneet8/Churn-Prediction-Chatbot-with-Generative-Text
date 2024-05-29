@@ -1,0 +1,6 @@
+Python 3.7+
+Jupyter Lab
+pandas
+scikit-learn
+openai
+textstat
