@@ -8,9 +8,6 @@ About Develop a chatbot that leverages customer data analysis and generative tex
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Detailed Steps](#detailed-steps)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
