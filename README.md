@@ -8,9 +8,7 @@ About Develop a chatbot that leverages customer data analysis and generative tex
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Detailed Steps](#detailed-steps)
-- [Contributing](#contributing)
+- [Details](#details)
 - [License](#license)
 
 ## Introduction
@@ -56,12 +54,13 @@ The dataset used in this project is the Telco Customer Churn Dataset from the [U
 ## Install the required packages:
 pip install -r requirements.txt
 
-## Set up OpenAI API key:
+## Usage
+Set up OpenAI API key:
 Obtain an API key from OpenAI.
-
-## Set the API key as an environment variable:
+Set the API key as an environment variable:
 export OPENAI_API_KEY='your-api-key'
 
+## Details
 1. Data Preprocessing
 Load and preprocess the dataset.
 Handle missing values and convert categorical variables.
@@ -79,5 +78,5 @@ Evaluate the quality (clarity, persuasion) and personalization of generated mess
 Consider the overall user experience and ease of interaction with the chatbot prototype.
 
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for detail
